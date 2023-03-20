@@ -8,8 +8,11 @@ va applicato uno sconto del 40% per gli over 65.
 
 ## Passaggi
 
--
--
--
--
--
+1. Chiedere all'utente i chilometri che vuole percorrere.
+2. Chiedere all'utente l'età del passeggero.
+3. Dichiarare le 2 variabili.
+4. Siamo a conoscenza che il tratto ha un costo di 0.21 €/Km.
+5. Applicare uno sconto del 20% per <18 anni.
+6. Applicare uno sconto del 40% per >65 anni.
+7. Il dato in output va stampato in formato numerico(massimo 2 cifre dopo la virgola per indicare i centesimi).
+8. Stampare output su HTML.
